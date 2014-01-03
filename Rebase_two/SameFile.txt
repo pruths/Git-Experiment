@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Second r2-4 commit on Master
+=======
+Second r2-3 commit on new branch
+>>>>>>> refs/remotes/origin/New_Rebase_Two_Branch
